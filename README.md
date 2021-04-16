@@ -2,7 +2,7 @@
 
 ---
 Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
- ![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
+                                               ![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
 
 ## My programming languages&
 
