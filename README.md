@@ -1,5 +1,5 @@
 ## Hello world 👋
-
+![](https://komarev.com/ghpvc/?username=Sladkiy-Murlok)
 ---
 Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
 
@@ -20,6 +20,10 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 - Discord https://discord.bio/p/murlok
 - Telegram https://t.me/imurlok1337
 
+
+
 ## My Github Stats&
 
 ![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sladkiy-Murlok&layout=compact)](https://github.com/Sladkiy-Murlok/github-readme-stats)
