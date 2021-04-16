@@ -1,9 +1,8 @@
 ## Hello world 👋
 
----
-Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
 
-![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
+Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
+---
 
 ## My programming languages&
 
@@ -21,3 +20,7 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 - Vk https://vk.com/murloklegend
 - Discord https://discord.bio/p/murlok
 - Telegram https://t.me/imurlok1337
+
+## My Github Stats&
+
+![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
