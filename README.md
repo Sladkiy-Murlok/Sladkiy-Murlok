@@ -2,6 +2,7 @@
 
 
 Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
+
 ---
 
 ## My programming languages&
