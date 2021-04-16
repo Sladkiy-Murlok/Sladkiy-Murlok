@@ -3,7 +3,7 @@
 ---
 Hi! my name is Nikita and I am a Js developer. In addition to coding I like to play video games and listen to music.
 
-## My programming languages&
+## languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,7 +14,7 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Socials&
+## Socials
 
 - Vk https://vk.com/murloklegend
 - Discord https://discord.bio/p/murlok
@@ -22,7 +22,7 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 
 
 
-## My Github Stats&
+## Github Stats
 
 ![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
 
