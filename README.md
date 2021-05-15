@@ -22,3 +22,8 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 
 
 
+## Github Stats
+
+![Murlok GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladkiy-Murlok&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sladkiy-Murlok&layout=compact)
