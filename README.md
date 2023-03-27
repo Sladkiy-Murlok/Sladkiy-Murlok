@@ -16,7 +16,6 @@ Hi! my name is Nikita and I am a Js developer. In addition to coding I like to p
 
 ## Socials
 
-- Vk https://vk.com/murloklegend
 - Discord https://discord.bio/p/murlok
 - Telegram https://t.me/imurlok1337
 
